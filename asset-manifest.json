@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.888bcdfa.css",
-    "main.js": "/static/js/main.868b8eb1.js",
+    "main.js": "/static/js/main.4090fe38.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/SEO analytics team-amico.svg": "/static/media/SEO analytics team-amico.b0483eed722f8f016dedd279be29c272.svg",
     "static/media/Web search-amico.svg": "/static/media/Web search-amico.5bab697db2c8408a24de64030ef9665b.svg",
+    "index.html": "/index.html",
     "static/media/Video upload-amico.svg": "/static/media/Video upload-amico.9ebbf9fd35f0736dcec53c5b8da4a3a4.svg",
     "static/media/Video tutorial-amico.svg": "/static/media/Video tutorial-amico.0e77a62a7ac4f7b1a22206b02fc0dd6c.svg",
     "static/media/Dropdown menu-amico.svg": "/static/media/Dropdown menu-amico.df05329a8d2621fa8304a09da433d4ca.svg",
-    "index.html": "/index.html",
     "main.888bcdfa.css.map": "/static/css/main.888bcdfa.css.map",
-    "main.868b8eb1.js.map": "/static/js/main.868b8eb1.js.map",
+    "main.4090fe38.js.map": "/static/js/main.4090fe38.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.888bcdfa.css",
-    "static/js/main.868b8eb1.js"
+    "static/js/main.4090fe38.js"
   ]
 }
